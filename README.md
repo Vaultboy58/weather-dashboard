@@ -1,2 +1,0 @@
-# weather-dashboard
-Assignment 
